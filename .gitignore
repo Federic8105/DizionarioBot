@@ -1,0 +1,17 @@
+# Ambiente virtuale
+.venv/
+venv/
+ENV/
+
+# Cache di Python
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# File di configurazione di PyCharm
+.idea/
+
+# File di configurazione delle variabili d'ambiente (credenziali sensibili)
+.env
+.env.local
+.env.*.local
