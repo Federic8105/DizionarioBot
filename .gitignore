@@ -11,6 +11,10 @@ ENV/
 # File di configurazione di PyCharm
 .idea/
 
+# File di database SQLite
+*.sqlite3
+.db
+
 # File di configurazione delle variabili d'ambiente (credenziali sensibili)
 .env
 .env.local

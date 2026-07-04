@@ -4,7 +4,7 @@
 # Versione 4.0
 # Data: 23-04-2025
 
-# TODO: async, webhook, decoratori, insert or replace, clear esplode con tanti messaggi, eliminare parte in inglese di significato, print in altro posto, documentazione
+# TODO: async, webhook, decoratori, insert or replace, clear esplode con tanti messaggi, print_all in altro posto, documentazione
 # TODO X Versioni di Python Future: Controllo Uso di With con Cursor
 
 import telebot

@@ -51,6 +51,7 @@ def get_new_db_connection(on_error = None):
 
 
 # Creazione di un Nuovo Cursore per Eseguire le Query sul Database SQLite
+# noinspection PyUnresolvedReferences
 @contextmanager
 def get_new_db_cursor(on_error = None):
     # Gestione Automatica della Chiusura e del Rollback
