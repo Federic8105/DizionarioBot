@@ -13,7 +13,7 @@ ENV/
 
 # File di database SQLite
 *.sqlite3
-.db
+*.db
 
 # File di configurazione delle variabili d'ambiente (credenziali sensibili)
 .env
